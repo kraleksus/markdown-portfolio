@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image](http://commondatastorage.googleapis.com/codeskulptor-demos/riceracer_assets/img/car_1.png)
